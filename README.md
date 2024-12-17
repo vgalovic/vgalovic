@@ -1,3 +1,7 @@
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -64,5 +68,17 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vgalovic/vgalovic/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vgalovic/vgalovic/refs/heads/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vgalovic/vgalovic/refs/heads/output/github-snake.svg" />
+</picture>
+
+###
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ###
