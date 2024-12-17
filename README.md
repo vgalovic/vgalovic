@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://github.com/vgalovic/vgaolvic/blob/main/banner.png" />
-</div>
-
-###
 
 <h1 align="left">👋 Hi there!</h1>
 
