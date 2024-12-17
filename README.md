@@ -10,30 +10,10 @@
 
 ###
 
-<h1 align="left">👋 Hi there!</h1>
-
-###
-
-<p align="left">
-  I'm a student at the Faculty of Technical Sciences with aspirations to become an engineer. Here's a bit about me:<br><br>
-  <ul>
-    <li>💻 Passionate about Software Development and Embedded Applications</li>
-    <li>🤝 Enjoy working in teams and collaborating effectively</li>
-    <li>🛠️ Known for being consistent, independent, collegial, and responsible</li>
-    <li>🚀 Always ready to take on new challenges and learn what’s needed to get the job done</li>
-  </ul><br>
-  Let’s build something amazing together!
-</p>
-
-###
-
 <h2 align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Coding GIF" width="25" height="25">&nbsp;&nbsp;
   I code with:
 </h2>
-
-
-###
 
 <br clear="both">
 
@@ -55,11 +35,37 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vgalovic/vgalovic/refs/heads/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vgalovic/vgalovic/refs/heads/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vgalovic/vgalovic/refs/heads/output/github-snake.svg" />
-</picture>
+<h2 align="left">
+  📊 My GitHub Stats:
+</h2>
+
+<br>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; padding: 0;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vgalovic&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vgalovic&theme=default&hide_border=true&include_all_commits=false&count_private=false" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vgalovic&theme=default&hide_border=true&include_all_commits=false&count_private=false" />
+  </picture>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vgalovic&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vgalovic&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgalovic&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  </picture>
+</div>
+
+###
+
+<div align="center">
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vgalovic/vgalovic/refs/heads/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vgalovic/vgalovic/refs/heads/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/vgalovic/vgalovic/refs/heads/output/github-snake.svg" />
+  </picture>
+
+</div>
 
 ###
 
