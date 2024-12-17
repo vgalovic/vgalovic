@@ -1,8 +1,6 @@
-
+<h1 align="left">👋 Hi there!</h1>
 
 ###
-
-<h1 align="left">👋 Hi there!</h1>
 
 <p align="left">
   I'm a student at the Faculty of Technical Sciences with aspirations to become an engineer. Here's a bit about me:<br><br>
@@ -14,6 +12,7 @@
   </ul><br>
   Let’s build something amazing together!
 </p>
+
 ###
 
 <h2 align="left">I code with 💻</h2>
