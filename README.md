@@ -43,13 +43,13 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; padding: 0;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vgalovic&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vgalovic&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vgalovic&theme=default&hide_border=true&include_all_commits=false&count_private=false" />
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vgalovic&theme=default&hide_border=true&include_all_commits=false&count_private=false" />
   </picture>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vgalovic&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vgalovic&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vgalovic&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgalovic&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
   </picture>
