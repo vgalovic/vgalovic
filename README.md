@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="1000" height="300" src="https://github.com/vgalovic/vgaolvic/raw/main/banner.png" />
-</div>
+
 
 ###
 
