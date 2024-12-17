@@ -1,16 +1,10 @@
 <div align="center">
-  <img width="600" height="200" src="https://github.com/vgalovic/vgaolvic/raw/main/banner.png" />
+  <img width="1000" height="200" src="https://github.com/vgalovic/vgaolvic/raw/main/banner.png" />
 </div>
 
 ###
 
 <h1 align="left">👋 Hi there!</h1>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
 
 <p align="left">I'm a student at the Faculty of Technical Sciences with aspirations to become an engineer. Here's a bit about me:<br><br>    💻 Passionate about Software Development and Embedded Applications<br>    🤝 Enjoy working in teams and collaborating effectively<br>    🛠️ Known for being consistent, independent, collegial, and responsible<br>    🚀 Always ready to take on new challenges and learn what’s needed to get the job done<br><br>Let’s build something amazing together!</p>
 
