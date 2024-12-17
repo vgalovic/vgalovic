@@ -6,8 +6,16 @@
 
 <h1 align="left">👋 Hi there!</h1>
 
-<p align="left">I'm a student at the Faculty of Technical Sciences with aspirations to become an engineer. Here's a bit about me:<br><br>    💻 Passionate about Software Development and Embedded Applications<br>    🤝 Enjoy working in teams and collaborating effectively<br>    🛠️ Known for being consistent, independent, collegial, and responsible<br>    🚀 Always ready to take on new challenges and learn what’s needed to get the job done<br><br>Let’s build something amazing together!</p>
-
+<p align="left">
+  I'm a student at the Faculty of Technical Sciences with aspirations to become an engineer. Here's a bit about me:<br><br>
+  <ul>
+    <li>💻 Passionate about Software Development and Embedded Applications</li>
+    <li>🤝 Enjoy working in teams and collaborating effectively</li>
+    <li>🛠️ Known for being consistent, independent, collegial, and responsible</li>
+    <li>🚀 Always ready to take on new challenges and learn what’s needed to get the job done</li>
+  </ul><br>
+  Let’s build something amazing together!
+</p>
 ###
 
 <h2 align="left">I code with 💻</h2>
@@ -47,3 +55,9 @@
 </div>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vgalovic/vgaolvic/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vgalovic/vgaolvic/refs/heads/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vgalovic/vgaolvic/refs/heads/output/github-snake.svg" />
+</picture>
